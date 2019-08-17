@@ -20,4 +20,4 @@ Until now we have separated our code by file extension: HTML, CSS, and JavaScrip
 
 ## 2. Creating elements, from DOM to JSX
 
-To illustrate the transition from using the DOM to create elements to using React and JSX syntax, we'll go through a [simple example]('https://github.com/jema28/react-intro/blob/master/creating-element-dom-to-jsx/mentor-notes.md') of creating a div including two elements and rendering them to the page.
+To illustrate the transition from using the DOM to create elements to using React and JSX syntax, we'll go through a [simple example](https://github.com/jema28/react-intro/blob/master/creating-element-dom-to-jsx/mentor-notes.md) of creating a div including two elements and rendering them to the page.
