@@ -69,7 +69,7 @@ ReactDOM.render(divReact, document.getElementById("root"));
 
 ### 3. Using JSX
 
-We need to add a babel cdn script and `text/babel` in our script tag so babel can transform our jsx into code the browser will understand.
+We need to add a babel cdn script and `text/babel` in our script tag so babel can transform our jsx into code the browser will understand. See screenshot after code example.
 
 ```html
 <script src="https://unpkg.com/babel-standalone"></script>
@@ -96,3 +96,5 @@ const jsx = (
 
 ReactDOM.render(jsx, document.getElementById("root"));
 ```
+
+![What babel is doing behind the scenes](babel.png)
