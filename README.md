@@ -4,7 +4,7 @@
 
 ## 1. Core Features of React.js
 
-##### Source: [React docs](https://reactjs.org/), [Rithm School, Introduction to React](https://www.rithmschool.com/courses/react-fundamentals/introduction-to-react) and Oliver Phillip's (@oliverjam) [presentation on How Modern frontend fits in](https://hackmd.io/@oli/SJauYz6EM?type=slide#/).
+##### Source: [React docs](https://reactjs.org/), [Rithm School, Introduction to React](https://www.rithmschool.com/courses/react-fundamentals/introduction-to-react) and [presentation on Intro to React](https://hackmd.io/@wnY-I3uaTo-RLdr30MBwjg/BJinTaFf5#/).
 
 **Component-based design:** Components are reusable pieces of Javascript logic, HTML, and CSS that are combined into one piece of an application that you can then use to build/compose a larger application. They can include inputs, properties, emit events, hold their logic and data, and also include other components.
 
